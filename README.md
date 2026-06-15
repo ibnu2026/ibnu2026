@@ -14,42 +14,6 @@ Information Technology Student | IoT Researcher | Web & Mobile Developer
 
 ---
 
-## 👨‍💻 About Me
-
-🎓 Information Technology Student at Annuqayah
-
-🔬 Interested in research and development in:
-
-- Internet of Things (IoT)
-- Smart Farming Technology
-- Artificial Intelligence
-- Web Development
-- Mobile Development
-- Information Systems
-
-🏆 Achievement
-
-- 🥇 1st Place Business Plan Competition
-
-🌱 Currently Learning
-
-- Laravel
-- Flutter
-- REST API Development
-- Fuzzy Logic
-- Artificial Intelligence
-- IoT Automation
-
-🚀 Current Focus
-
-- Smart Farming Research
-- IoT-Based Irrigation Systems
-- Mobile Application Development
-- Web Application Development
-- Open Source Learning
-
----
-
 ## 🌐 Connect With Me
 
 <p align="center">
@@ -120,50 +84,12 @@ Information Technology Student | IoT Researcher | Web & Mobile Developer
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=ibnu2026&theme=tokyonight&column=7&margin-w=15"/>
-</p>
-
----
 
 ## 📈 Contribution Graph
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ibnu2026&theme=tokyo-night"/>
 </p>
-
----
-
-## 🔬 Research Interests
-
-- Smart Farming
-- Internet of Things (IoT)
-- Intelligent Irrigation Systems
-- Artificial Intelligence
-- Information Systems
-- Mobile Computing
-
----
-
-## 🎯 Goals
-
-- Publish research in Smart Farming and IoT
-- Build impactful technology solutions
-- Master Full-Stack Development
-- Contribute to Open Source Projects
-- Expand knowledge in Artificial Intelligence
-- Develop innovative solutions for agriculture and education
-
----
-
-## 📚 Currently Working On
-
-- IoT-Based Smart Irrigation System
-- Voice Recognition for Embedded Systems
-- Flutter Mobile Applications
-- Laravel Web Applications
 
 ---
 
@@ -174,18 +100,6 @@ Information Technology Student | IoT Researcher | Web & Mobile Developer
 > "Technology should not only solve problems, but also create opportunities and benefits for society."
 
 </div>
-
----
-
-## ⚡ Fun Facts
-
-💡 I enjoy learning new technologies.
-
-🌱 Interested in agriculture, technology, and innovation.
-
-📱 Building applications that solve real-world problems.
-
-🚀 Always exploring ideas that combine technology and social impact.
 
 ---
 
