@@ -111,7 +111,7 @@ A collection of ideas, experiments, and solutions developed through continuous l
 |:--|:--|:--|
 | **SAKA** | Offline speech AI for smart irrigation monitoring | IoT / AI |
 | **Smart Trash Can** | Intelligent waste classification and capacity monitoring | IoT |
-| **Jember Tourism** | Integrated tourism e-ticketing and analytics concept | Web Development |
+| **E-Ticket** | Integrated tourism e-ticketing and analytics concept | Web Development |
 
 > Explore my repositories to discover more experiments and ongoing development.
 
