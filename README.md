@@ -1,72 +1,151 @@
-# Ahmad Ibnu Zaini
-
-**Information Technology Student · Software Developer · IoT Enthusiast**
-
-Building practical digital solutions through software, connected systems, and continuous experimentation.
-
----
-
-### 01 / ABOUT
-
-Hello, I'm Ibnu — an Information Technology student interested in software engineering, Internet of Things, and the development of technology-driven solutions.
-
-I enjoy exploring how technology works, developing applications, and turning ideas into practical projects.
-
-My current interests include:
-
-- **Software Development** — Web and mobile application development.
-- **Internet of Things** — Embedded systems, smart devices, and automation.
-- **Artificial Intelligence** — Exploring AI applications in real-world systems.
-- **Smart Agriculture** — Technology-driven solutions for agricultural innovation.
-
-I believe good technology should be useful, accessible, and built with purpose.
-
----
-
-### 02 / TECHNOLOGY
-
-**Languages**
-
-`HTML` · `CSS` · `JavaScript` · `PHP` · `Python` · `Dart`
-
-**Frameworks & Libraries**
-
-`Laravel` · `Flutter` · `Flask` · `Bootstrap`
-
-**Databases**
-
-`MySQL` · `SQLite` · `Firebase`
-
-**Development Tools**
-
-`Git` · `GitHub` · `VS Code` · `Figma` · `Postman`
-
----
-
-### 03 / GITHUB ACTIVITY
+# `ibnu2026` — Ahmad Ibnu Zaini
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ibnu2026&show_icons=true&hide_border=true&bg_color=0d1117&title_color=c9d1d9&text_color=8b949e&icon_color=8b949e&rank_icon=github" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibnu2026&layout=compact&hide_border=true&bg_color=0d1117&title_color=c9d1d9&text_color=8b949e" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=21&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Software+Developer;Information+Technology+Student;IoT+%26+AI+Enthusiast;Turning+Ideas+Into+Technology" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ibnu2026&hide_border=true&background=0d1117&ring=c9d1d9&fire=c9d1d9&currStreakLabel=c9d1d9&sideLabels=8b949e&dates=8b949e" />
+  <a href="https://github.com/ibnu2026"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
+  <a href="mailto:ahmadibnuzaini2026@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.instagram.com/i_b_n_u_2_6/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
+  <a href="https://www.tiktok.com/@ibn_2026"><img src="https://img.shields.io/badge/TikTok-000000?style=flat-square&logo=tiktok&logoColor=white"/></a>
+  <img src="https://komarev.com/ghpvc/?username=ibnu2026&style=flat-square&color=1f6feb&label=PROFILE+VIEWS"/>
 </p>
 
 ---
 
-### 04 / CONNECT
+## `01.` &nbsp; About Me
 
-I'm always open to learning, exchanging ideas, and collaborating on meaningful projects.
+<img align="right" width="270" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibnu2026&layout=donut&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"/>
 
-- **GitHub:** [@ibnu2026](https://github.com/ibnu2026)
-- **Instagram:** [@i_b_n_u_2_6](https://www.instagram.com/i_b_n_u_2_6/)
-- **TikTok:** [@ibn_2026](https://www.tiktok.com/@ibn_2026)
-- **Email:** [ahmadibnuzaini2026@gmail.com](mailto:ahmadibnuzaini2026@gmail.com)
+I'm **Ahmad Ibnu Zaini**, an Information Technology student with a strong interest in software engineering, intelligent systems, and emerging technologies.
+
+I enjoy working across different areas of technology — from building web and mobile applications to experimenting with IoT devices and AI-powered systems.
+
+```python
+class Developer:
+    name = "Ahmad Ibnu Zaini"
+    location = "Indonesia"
+    interests = [
+        "Software Engineering",
+        "Internet of Things",
+        "Artificial Intelligence",
+        "Smart Agriculture"
+    ]
+
+    mindset = "Learn. Build. Improve."
+```
+
+<br clear="right"/>
+
+---
+
+## `02.` &nbsp; Technical Arsenal
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,python,dart&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=laravel,flutter,flask,bootstrap,mysql,sqlite,firebase&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,arduino&theme=dark" />
+</p>
+
+| Category | Technologies |
+|:--|:--|
+| **Languages** | HTML, CSS, JavaScript, PHP, Python, Dart |
+| **Frameworks** | Laravel, Flutter, Flask, Bootstrap |
+| **Database** | MySQL, SQLite, Firebase |
+| **Tools** | Git, GitHub, VS Code, Figma, Postman |
+| **Exploring** | IoT, Embedded Systems, AI, Smart Farming |
+
+---
+
+## `03.` &nbsp; Areas of Interest
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### ◈ Software Engineering
+
+Developing web and mobile applications with an emphasis on functionality, usability, and maintainable code.
+
+</td>
+<td width="50%" valign="top">
+
+### ◈ Internet of Things
+
+Exploring embedded systems, sensor integration, device communication, and intelligent automation.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ◈ Artificial Intelligence
+
+Experimenting with machine learning, speech recognition, and practical AI implementation.
+
+</td>
+<td width="50%" valign="top">
+
+### ◈ Smart Agriculture
+
+Combining software, IoT, and intelligent systems to develop technology-driven agricultural solutions.
+
+</td>
+</tr>
+</table>
+
+---
+
+## `04.` &nbsp; Selected Work
+
+A collection of ideas, experiments, and solutions developed through continuous learning.
+
+| Project | Description | Domain |
+|:--|:--|:--|
+| **SAKA** | Offline speech AI for smart irrigation monitoring | IoT / AI |
+| **Smart Trash Can** | Intelligent waste classification and capacity monitoring | IoT |
+| **Jember Tourism** | Integrated tourism e-ticketing and analytics concept | Web Development |
+
+> Explore my repositories to discover more experiments and ongoing development.
+
+---
+
+## `05.` &nbsp; GitHub Analytics
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ibnu2026&show_icons=true&hide_border=true&include_all_commits=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF"/>
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ibnu2026&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E"/>
+</p>
+
+<p align="center">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=ibnu2026&bg_color=0D1117&color=C9D1D9&line=58A6FF&point=FFFFFF&area=true&hide_border=true"/>
+</p>
+
+---
+
+## `06.` &nbsp; Beyond The Code
+
+> "Great things are done by a series of small things brought together."
+
+— Vincent van Gogh
+
+I believe meaningful innovation starts with curiosity, grows through experimentation, and becomes valuable when it solves real problems.
 
 ---
 
 <p align="center">
-  <sub>Always learning. Always building. Always improving.</sub>
+  <img src="https://img.shields.io/badge/BUILT_WITH-CURIOSITY-161B22?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/POWERED_BY-COFFEE-161B22?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/DRIVEN_BY-IDEAS-161B22?style=for-the-badge"/>
+</p>
+
+<p align="center">
+  <sub>© 2026 Ahmad Ibnu Zaini · Designed with purpose, developed with passion.</sub>
 </p>
