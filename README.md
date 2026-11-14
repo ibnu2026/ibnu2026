@@ -1,53 +1,76 @@
-# Ahmad Ibnu Zaini
+<p align="center"><sub>SOFTWARE DEVELOPMENT | IOT | ARTIFICIAL INTELLIGENCE</sub></p>
 
-**Software Developer | Information Technology Student | IoT & AI Enthusiast**
+<h1 align="center">Ahmad Ibnu Zaini</h1>
 
-I build web and mobile applications and explore technology that solves real-world problems. Based in Indonesia.
+<p align="center"><strong>Welcome to my developer profile</strong><br />
+Information Technology student from Indonesia, building practical software and exploring new ideas.</p>
 
-[Email](mailto:ahmadibnuzaini2026@gmail.com) | [GitHub](https://github.com/ibnu2026) | [Instagram](https://www.instagram.com/i_b_n_u_2_6/) | [TikTok](https://www.tiktok.com/@ibn_2026)
+<p align="center">
+  <a href="mailto:ahmadibnuzaini2026@gmail.com">Email</a> &nbsp;·&nbsp;
+  <a href="https://github.com/ibnu2026">GitHub</a> &nbsp;·&nbsp;
+  <a href="https://www.instagram.com/i_b_n_u_2_6/">Instagram</a> &nbsp;·&nbsp;
+  <a href="https://www.tiktok.com/@ibn_2026">TikTok</a>
+</p>
 
 ---
 
-## About
+## Hello, world.
 
-I'm an Information Technology student interested in software engineering, intelligent systems, and emerging technologies. I enjoy building across the stack—from web and mobile apps to connected devices—with a focus on practical solutions and maintainable code.
+I'm Ahmad, a developer who enjoys turning ideas into useful web and mobile applications. I'm interested in software engineering, connected devices, and intelligent systems, with a focus on practical solutions and maintainable code.
 
-### Areas of interest
+## My toolkit
 
-- Software engineering
-- Internet of Things and embedded systems
-- Artificial intelligence and speech recognition
-- Smart agriculture
-
-## Tech stack
-
-| Category | Technologies |
+| Area | Technologies |
 | :-- | :-- |
 | Languages | HTML, CSS, JavaScript, PHP, Python, Dart |
 | Frameworks | Laravel, Flutter, Flask, Bootstrap |
 | Data | MySQL, SQLite, Firebase |
 | Tools | Git, GitHub, VS Code, Figma, Postman, Arduino |
+| Exploring | IoT, embedded systems, AI, smart agriculture |
 
-## Selected work
+## Selected projects
 
-| Project | Description | Focus |
-| :-- | :-- | :-- |
-| SAKA | Offline speech AI for smart irrigation monitoring | IoT, AI |
-| Smart Trash Can | Intelligent waste classification and capacity monitoring | IoT |
-| Jember Tourism | Tourism e-ticketing and analytics concept | Web development |
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>SAKA</h3>
+      <p>Offline speech AI for smart irrigation monitoring.</p>
+      <small>IoT / AI</small>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Smart Trash Can</h3>
+      <p>Intelligent waste classification and capacity monitoring.</p>
+      <small>IoT</small>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h3>Jember Tourism</h3>
+      <p>A tourism e-ticketing and analytics concept.</p>
+      <small>Web development</small>
+    </td>
+  </tr>
+</table>
 
-## GitHub activity
+## GitHub at a glance
 
-| Metric | Value |
-| :-- | --: |
-| Public repositories | 8 |
-| Followers | 1 |
-| Contributions since July 1, 2023 | 72 |
-| Current contribution streak | 1 day |
-| Longest contribution streak | 3 days |
+<table>
+  <tr>
+    <th align="center">Contributions</th>
+    <th align="center">Current streak</th>
+    <th align="center">Longest streak</th>
+  </tr>
+  <tr>
+    <td align="center"><strong>72</strong></td>
+    <td align="center"><strong>1 day</strong></td>
+    <td align="center"><strong>3 days</strong></td>
+  </tr>
+</table>
 
-*Activity figures are a snapshot from November 14, 2026. See the [GitHub profile](https://github.com/ibnu2026) for current activity.*
+<p align="center">8 public repositories &nbsp;·&nbsp; 1 follower</p>
+
+<p align="center"><sub>Activity snapshot: November 14, 2026. <a href="https://github.com/ibnu2026">View my live GitHub profile</a>.</sub></p>
 
 ---
 
-**Learn. Build. Improve.**
+<p align="center"><strong>Learn. Build. Improve.</strong></p>
