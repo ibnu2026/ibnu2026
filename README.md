@@ -16,7 +16,7 @@
 
 ## `01.` &nbsp; About Me
 
-<img align="right" width="270" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibnu2026&layout=donut&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"/>
+<img align="right" width="270" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ibnu2026&theme=github_dark"/>
 
 I'm **Ahmad Ibnu Zaini**, an Information Technology student with a strong interest in software engineering, intelligent systems, and emerging technologies.
 
@@ -120,12 +120,12 @@ A collection of ideas, experiments, and solutions developed through continuous l
 ## `05.` &nbsp; GitHub Analytics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ibnu2026&show_icons=true&hide_border=true&include_all_commits=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ibnu2026&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E"/>
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ibnu2026&theme=github_dark" alt="GitHub statistics"/>
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ibnu2026&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E" alt="GitHub contribution streak"/>
 </p>
 
 <p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=ibnu2026&bg_color=0D1117&color=C9D1D9&line=58A6FF&point=FFFFFF&area=true&hide_border=true"/>
+  <img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ibnu2026&theme=github_dark" alt="GitHub contribution activity"/>
 </p>
 
 ---
